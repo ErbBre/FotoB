@@ -218,4 +218,10 @@ footer{
     .presentacion{
         display: table-row;
     }
+    /*EFECTO OLA WAVE*/
+    .wave{
+        position: absolute;
+        bottom: 0;
+        width: 70%;    
+        }
 }
